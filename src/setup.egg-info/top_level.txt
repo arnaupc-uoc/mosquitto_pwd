@@ -1,4 +1,0 @@
-build
-dist
-mosquitto_pwd
-setup
